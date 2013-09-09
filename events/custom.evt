@@ -1,2 +1,4 @@
 
 timer.check_temp##timer.check_temp timer fired #The timer named timer.check_temp has fired
+
+timer.trend##timer.trend timer fired #The timer named timer.trend has fired
